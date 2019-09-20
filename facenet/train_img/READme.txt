@@ -1,0 +1,1 @@
+Put your image data here in folders. And delete this file when you are done :) 
